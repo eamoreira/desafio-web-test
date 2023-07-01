@@ -1,0 +1,4 @@
+tests\setupTest.class
+utils\Browser.class
+utils\Utils.class
+tests\BaseTests.class
